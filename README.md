@@ -1,3 +1,5 @@
+Program excepts input file name as one of the arguments while running.
+
 Input: The input consists of several sections.  The beginning of each section is marked by a line starting: “# Section:”
 ```
 Section 1: A weighted bi-directional graph describing the conveyor system.
